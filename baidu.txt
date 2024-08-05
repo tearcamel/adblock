@@ -1,1 +1,0 @@
-||bdstatic.com^*/jquery/$domain=ipv6.baidu.com|www.baidu.com|www1.baidu.com
